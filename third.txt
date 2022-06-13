@@ -1,3 +1,0 @@
-this is the second text file for chaking git commands and after this 
-we are going to commit only first txt file and updated
-next next next
