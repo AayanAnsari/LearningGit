@@ -1,0 +1,5 @@
+I added this file for testing new git repository
+that it is working properly or not 
+now i am going to add all this wtih the help of git add --a  command 
+and than i am going to commit all this code on git with the help of git commit  -m "" command
+
